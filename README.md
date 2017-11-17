@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Nov 17,2017 )
 
 ### Student Name:  
-(First and Last Name)
+(Becca Billman)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Using bilt in syntax to create a link or hover effect to add more to the page.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://beccabillman.github.io/lesson7_jquery/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (fadeIn("slow") causes the material that the viewer wants to see, slowly show up on the screen.) 
+2. (fadeOut("") is a command that you can use. It is like fade in but it is the reverse of it. )
+3. (You can use sytax to refer to another file. )
 
